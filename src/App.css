@@ -5,6 +5,7 @@
     border-radius: 15px;
     border: 2px solid grey;
     padding-bottom: 25px;
+    margin: 0 auto;
 }
 .display {
     margin-top: 25px;
@@ -20,3 +21,71 @@
     padding-right: 8%;
     font-size: 5.0rem;
   }
+.logo-container{
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 2%;
+
+}
+.display{
+    margin: 0 auto;
+    /* font-size: 4rem; */
+}
+.topRow{
+/* margin: 0 auto; */
+padding-left: 5%; 
+width: 350px;
+}
+.specialButtons{
+    font-size: 2rem;
+    width: 75px;
+    height: 75px;
+    /* margin: 0 auto;  */
+    /* padding-left: 5%; */
+    background-color:dodgerblue;
+    color: white;
+    margin: 5%;
+    padding: 3%; 
+    border-radius: 50%;
+    
+        
+}
+.numbers{
+    width: 350px;
+    padding-left: 5%;
+
+
+}
+.numberButtons{
+    font-size: 2rem;
+    width: 75px;
+    height: 75px;
+    /* margin: 0 auto;  */
+    /* padding-left: 5%; */
+    background-color: royalblue;
+    color: white;
+    margin: 5%;
+    /* padding: 3%;  */
+    border-radius: 50%;
+    
+
+}
+.operator-Buttons{
+    width: 50px;
+    padding-left: 5%
+
+}
+.operators-button{
+    font-size: 2rem;
+    width: 75px;
+    height: 75px;
+    /* margin: 0 auto;  */
+    /* padding-left: 5%; */
+    background-color: royalblue;
+    color: white;
+    margin: 5%;
+    /* padding: 3%;  */
+    border-radius: 50%;
+    
+
+}
