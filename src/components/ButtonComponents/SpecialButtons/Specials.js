@@ -10,8 +10,8 @@ const Specials = () => {
   return (
     
     <div className="topRow">
-      {buttonSpecials.map(spec => <SpecialButton
-        special={spec} key={spec} />)}
+      {buttonSpecials.map(value => <SpecialButton
+        special={value} key={value} />)}
     </div>
   );
 };
